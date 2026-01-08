@@ -1,0 +1,896 @@
+[
+  {
+    "fish_common_name": "Hilsa",
+    "scientific_name": "Tenualosa ilisha",
+    "regional_names": [
+      "Ilish (WB/AS)",
+      "Ullam (AP/TS)",
+      "Palla (GJ)",
+      "Pulasa (AP)"
+    ],
+    "bone_profile": {
+      "complexity": "extreme (pin bones)"
+    },
+    "handling_and_cooking_warnings": [
+      "thousands of tiny intramuscular pin bones. use caution with kids."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Rohu",
+    "scientific_name": "Labeo rohita",
+    "regional_names": [
+      "Rui (WB/BH)",
+      "Rohu (North)",
+      "Labeo",
+      "Mirka (WB)"
+    ],
+    "bone_profile": {
+      "complexity": "high (y-bones)"
+    },
+    "handling_and_cooking_warnings": [
+      "central rib bones easy",
+      "thick muscle contains sharp y-bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Catla",
+    "scientific_name": "Labeo catla",
+    "regional_names": [
+      "Katla (WB)",
+      "Bhakura (OR)",
+      "Thoppa (TN)",
+      "Botcha (AP)"
+    ],
+    "bone_profile": {
+      "complexity": "medium (large ribs)"
+    },
+    "handling_and_cooking_warnings": [
+      "large head prized for gravies",
+      "rib bones are thick and easy to remove."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Indian Mackerel",
+    "scientific_name": "Rastrelliger kanagurta",
+    "regional_names": [
+      "Bangda (MH/KA/GA)",
+      "Ayala (KL)",
+      "Kanangeluthee (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "high oil content",
+      "spoils rapidly. grade a/b only for safety."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Kingfish/Seer",
+    "scientific_name": "Scomberomorus",
+    "regional_names": [
+      "Surmai (MH/GJ)",
+      "Vanjaram (TN/AP)",
+      "Neymeen (KL)",
+      "Anjal (KA)"
+    ],
+    "bone_profile": {
+      "complexity": "low (central bone)"
+    },
+    "handling_and_cooking_warnings": [
+      "single central bone. mercury risk in larger sizes",
+      "consume in moderation."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Pomfret (White)",
+    "scientific_name": "Pampus argenteus",
+    "regional_names": [
+      "Paplet (MH)",
+      "Vawall (TN)",
+      "Avoli (KL)"
+    ],
+    "bone_profile": {
+      "complexity": "low (flat skeleton)"
+    },
+    "handling_and_cooking_warnings": [
+      "skeleton remains intact. trim fins closely before frying."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Pomfret (Black)",
+    "scientific_name": "Parastromateus niger",
+    "regional_names": [
+      "Halwa (MH)",
+      "Karuppu Vawall (TN)",
+      "Karutha Avoli (KL)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "firm, meaty steaks with very few bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Barramundi",
+    "scientific_name": "Lates calcarifer",
+    "regional_names": [
+      "Bhetki (WB)",
+      "Koduva (TN)",
+      "Kalaan (KL)",
+      "Khajura (KA)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "premium white meat",
+      "large sturdy bones. scales are thick and tough."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Indian Sardine",
+    "scientific_name": "Sardinella longiceps",
+    "regional_names": [
+      "Tarli (MH)",
+      "Mathi (KL)",
+      "Peychaal (TN)",
+      "Boothai (KA)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "oily fish",
+      "bones are small but soft. high omega-3 content."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Bombay Duck",
+    "scientific_name": "Harpadon nehereus",
+    "regional_names": [
+      "Bombil (MH/GJ)",
+      "Lote (WB)"
+    ],
+    "bone_profile": {
+      "complexity": "very low (soft)"
+    },
+    "handling_and_cooking_warnings": [
+      "soft jelly-like bones",
+      "edible when deep-fried. high moisture."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Milkfish",
+    "scientific_name": "Chanos chanos",
+    "regional_names": [
+      "Poomeen (KL)",
+      "Palwa (AP)",
+      "Paal Kendai (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "very high (pin bones)"
+    },
+    "handling_and_cooking_warnings": [
+      "extremely bony",
+      "requires pressure cooking or professional deboning."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Red Snapper",
+    "scientific_name": "Lutjanus",
+    "regional_names": [
+      "Sankara (TN)",
+      "Chemballi (KL)",
+      "Tamb (MH)",
+      "Seppili (KL)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "large, sturdy bones. firm meat great for curries and grilling."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Pearl Spot",
+    "scientific_name": "Etroplus suratensis",
+    "regional_names": [
+      "Karimeen (KL)",
+      "Sethakendai (TN)",
+      "Green Chromide"
+    ],
+    "bone_profile": {
+      "complexity": "high (fine bones)"
+    },
+    "handling_and_cooking_warnings": [
+      "kerala's state fish. small, fine bones",
+      "eat with care."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Mrigal Carp",
+    "scientific_name": "Cirrhinus mrigala",
+    "regional_names": [
+      "Mrigal (North)",
+      "Mirka (WB)",
+      "Naini (UP)"
+    ],
+    "bone_profile": {
+      "complexity": "high"
+    },
+    "handling_and_cooking_warnings": [
+      "similar to rohu",
+      "standard carp bone structure."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Wallago Attu",
+    "scientific_name": "Wallago attu",
+    "regional_names": [
+      "Boal (WB/AS)",
+      "Valai (TN)",
+      "Mulley (North)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "'freshwater shark.' large frame, very few small bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Snakehead",
+    "scientific_name": "Channa striata",
+    "regional_names": [
+      "Shol (WB)",
+      "Viral (TN)",
+      "Brahmameen (KL)",
+      "Murrell (AP/TS)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "firm, medicinal meat",
+      "very easy to de-bone."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Indian Anchovy",
+    "scientific_name": "Stolephorus",
+    "regional_names": [
+      "Nethili (TN)",
+      "Kozhuva/Netholi (KL)",
+      "Mandeli (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "low (edible)"
+    },
+    "handling_and_cooking_warnings": [
+      "tiny bones are edible and high in calcium."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Emperor Fish",
+    "scientific_name": "Lethrinus",
+    "regional_names": [
+      "Vilameen (TN)",
+      "Sheri (KL)",
+      "Kulli (KL)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "meaty steaks with only one central bone."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Malabar Trevally",
+    "scientific_name": "Carangoides",
+    "regional_names": [
+      "Vatta (KL)",
+      "Parai (TN)",
+      "Hebbe (KA)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "tough skin",
+      "firm meat with a single central bone frame."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Barracuda",
+    "scientific_name": "Sphyraena",
+    "regional_names": [
+      "Sheela (TN)",
+      "Cheelavu (KL)",
+      "Jaban (TN)",
+      "Goli (KA)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "sharp teeth. firm meat",
+      "contains small soft bones near the spine."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Indian Whiting",
+    "scientific_name": "Sillago sihama",
+    "regional_names": [
+      "Kane (KA)",
+      "Nokchi (KL)",
+      "Kilakkan (TN)",
+      "Poovan (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "very safe for kids",
+      "simple bone structure and mild flavor."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Grey Mullet",
+    "scientific_name": "Mugil cephalus",
+    "regional_names": [
+      "Parshe (WB)",
+      "Thirutha (KL)",
+      "Madavai (TN)",
+      "Bhing (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "oily meat",
+      "medium bone complexity."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Cobia",
+    "scientific_name": "Rachycentron canadum",
+    "regional_names": [
+      "Modar (TN)",
+      "Neymeen (KL variant)",
+      "Sakla (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "tastes like seer fish. high protein",
+      "very few bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Silver Belly",
+    "scientific_name": "Leiognathidae",
+    "regional_names": [
+      "Karal (KL)",
+      "Mullu Namas (KA)",
+      "Kaarai (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "high"
+    },
+    "handling_and_cooking_warnings": [
+      "small but very bony",
+      "best used in soups or deep-fried."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Leatherjacket",
+    "scientific_name": "Oligoplites",
+    "regional_names": [
+      "Kuthuva (TN)",
+      "Kanni (KL)",
+      "Tholpaarai (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "skin is very rough",
+      "meat is firm with very few bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Threadfin Bream",
+    "scientific_name": "Nemipterus",
+    "regional_names": [
+      "Rani (MH)",
+      "Kilimeen (KL)",
+      "Sankara (TN variant)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "pinkish skin",
+      "common in markets. moderate bone level."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Butter Fish",
+    "scientific_name": "Scatophagus argus",
+    "regional_names": [
+      "Nari (KL)",
+      "Chitra (TN)",
+      "Bis Tara (WB)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "handle carefully",
+      "dorsal fins can be sharp and irritating."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Walking Catfish",
+    "scientific_name": "Clarias batrachus",
+    "regional_names": [
+      "Magur (WB/North)",
+      "Muzhu (TN/KL)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "highly medicinal",
+      "scaleless with one main bone."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Singhi",
+    "scientific_name": "Heteropneustes",
+    "regional_names": [
+      "Singi (WB)",
+      "Kadu (KL)",
+      "Telee (North)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "handle with care",
+      "has toxic pectoral stings."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Garfish",
+    "scientific_name": "Belonidae",
+    "regional_names": [
+      "Heere (KA)",
+      "Kola (KL)",
+      "Mooral (TN)",
+      "Kankley (North)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "unique green bones. naturally colored and safe to eat."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Mahi Mahi",
+    "scientific_name": "Coryphaena",
+    "regional_names": [
+      "Ayakkora (KL)",
+      "Thalayan (TN)",
+      "Avnose (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "dolphin fish",
+      "large meaty steaks with a single bone."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Grouper",
+    "scientific_name": "Epinephelus",
+    "regional_names": [
+      "Kalava (KL)",
+      "Pottu Koduva (TN)",
+      "Gapa (AP)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "firm white meat",
+      "sturdy bones easy to separate."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Yellowfin Tuna",
+    "scientific_name": "Thunnus albacares",
+    "regional_names": [
+      "Choora (KL)",
+      "Soorai (TN)",
+      "Kupa (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "very low"
+    },
+    "handling_and_cooking_warnings": [
+      "dark meaty flesh",
+      "no small pin bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Squid",
+    "scientific_name": "Teuthida",
+    "regional_names": [
+      "Koonthal (KL)",
+      "Kanava (TN)",
+      "Bondas (KA)"
+    ],
+    "bone_profile": {
+      "complexity": "none (cartilage)"
+    },
+    "handling_and_cooking_warnings": [
+      "no bones. contains a plastic-like internal cartilage quill."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Cuttlefish",
+    "scientific_name": "Sepia",
+    "regional_names": [
+      "Kanava (TN)",
+      "Kallan Koonthal (KL)",
+      "Thotti (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "none (bone)"
+    },
+    "handling_and_cooking_warnings": [
+      "large internal 'cuttlebone' must be removed before cooking."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Tiger Prawn",
+    "scientific_name": "Penaeus monodon",
+    "regional_names": [
+      "Bagda Chingri (WB)",
+      "Chemmeen (KL)",
+      "Iraal (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "none (shell)"
+    },
+    "handling_and_cooking_warnings": [
+      "handling only involves shell and digestive vein removal."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Mud Crab",
+    "scientific_name": "Scylla serrata",
+    "regional_names": [
+      "Nandu (TN)",
+      "Njandu (KL)",
+      "Khekhda (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "none (shell)"
+    },
+    "handling_and_cooking_warnings": [
+      "hard claws",
+      "requires crushing before or during eating."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Stingray",
+    "scientific_name": "Myliobatoidei",
+    "regional_names": [
+      "Thirandi (KL)",
+      "Thirukkai (TN)",
+      "Waghole (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "none (cartilage)"
+    },
+    "handling_and_cooking_warnings": [
+      "frame is made of soft cartilage",
+      "no hard bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Ribbon Fish",
+    "scientific_name": "Trichiuridae",
+    "regional_names": [
+      "Vaala (KL)",
+      "Vaalai (TN)",
+      "Bale (KA)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "long, flat body with a single row of soft bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Eel",
+    "scientific_name": "Anguilliformes",
+    "regional_names": [
+      "Malan (KL)",
+      "Valla (TN)",
+      "Bam (North)",
+      "Vam (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "slimy skin",
+      "safe central bone but small lateral bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Featherback",
+    "scientific_name": "Notopterus",
+    "regional_names": [
+      "Chital (WB/North)",
+      "Moh (Punjab)",
+      "Pholui (WB)"
+    ],
+    "bone_profile": {
+      "complexity": "extreme (pin bones)"
+    },
+    "handling_and_cooking_warnings": [
+      "extremely bony",
+      "often used for 'chital muitha' (fish balls)."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Grey Featherback",
+    "scientific_name": "Notopterus notopterus",
+    "regional_names": [
+      "Kanduli (AS)",
+      "Chamri (North)",
+      "Chitul (WB)"
+    ],
+    "bone_profile": {
+      "complexity": "extreme"
+    },
+    "handling_and_cooking_warnings": [
+      "thousands of pin bones. scraping meat for balls is best."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Indian Goatfish",
+    "scientific_name": "Mullidae",
+    "regional_names": [
+      "Nagarai (TN)",
+      "Rathi (AP)",
+      "Navarai (KL)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "small bones",
+      "very flavorful but requires careful eating."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Golden Mahseer",
+    "scientific_name": "Tor putitora",
+    "regional_names": [
+      "Mahseer (North)",
+      "Sahar (HP)",
+      "Jungha (AS)"
+    ],
+    "bone_profile": {
+      "complexity": "high"
+    },
+    "handling_and_cooking_warnings": [
+      "state fish of multiple states. large bones and firm meat."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Common Carp",
+    "scientific_name": "Cyprinus carpio",
+    "regional_names": [
+      "Carp (General)",
+      "Common Carp"
+    ],
+    "bone_profile": {
+      "complexity": "high"
+    },
+    "handling_and_cooking_warnings": [
+      "soft meat",
+      "standard carp 'y-bone' structure."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Tilapia",
+    "scientific_name": "Oreochromis",
+    "regional_names": [
+      "Jilabi (WB/South)",
+      "Thiloppia (KL)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "hardy fish",
+      "sturdy central bone frame."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Flatfish/Sole",
+    "scientific_name": "Pleuronectiformes",
+    "regional_names": [
+      "Lep (MH)",
+      "Manthal (KL)",
+      "Naaku Meen (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "flat skeleton",
+      "meat peels easily off the frame."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Pabda Catfish",
+    "scientific_name": "Ompok bimaculatus",
+    "regional_names": [
+      "Pabda (WB)",
+      "Butter Fish (English)",
+      "Viral Meen (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "low"
+    },
+    "handling_and_cooking_warnings": [
+      "delicate fish",
+      "very few bones. great for light curries."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Climbing Perch",
+    "scientific_name": "Anabas testudineus",
+    "regional_names": [
+      "Koi (WB/AS)",
+      "Panaiyeri Kendai (TN)"
+    ],
+    "bone_profile": {
+      "complexity": "high"
+    },
+    "handling_and_cooking_warnings": [
+      "very hardy fish",
+      "sharp dorsal fins and sturdy bones."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  },
+  {
+    "fish_common_name": "Indian Oil Sardine",
+    "scientific_name": "Sardinella longiceps",
+    "regional_names": [
+      "Peichalai (TN)",
+      "Mathi (KL)",
+      "Tarli (MH)"
+    ],
+    "bone_profile": {
+      "complexity": "medium"
+    },
+    "handling_and_cooking_warnings": [
+      "oily and small",
+      "bones are soft and can be eaten if fried."
+    ],
+    "confidence": "high",
+    "source": "general culinary and regional fish handling knowledge"
+  }
+]
