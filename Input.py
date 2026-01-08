@@ -1,13 +1,10 @@
-from enum import Enum
-from dataclasses import dataclass
-from typing import Optional, Tuple, List, Dict
 import io
-import time
-
 import numpy as np
 import cv2
 from PIL import Image, ExifTags
-
+from enum import Enum
+from dataclasses import dataclass
+from typing import Optional, Tuple, List, Dict
 
 # ==================== ENUMS ====================
 
@@ -17,16 +14,17 @@ class MLJobStatus(Enum):
     DONE = "DONE"
     FAILED = "FAILED"
 
-
 class FreshnessLevel(Enum):
     FRESH = "FRESH"
     MODERATE = "MODERATE"
     SPOILED = "SPOILED"
     PENDING = "PENDING"
 
+class ImageType(Enum):
+    EYE = "EYE"
+    GILL = "GILL"
 
 class ValidationError(Enum):
-    LOW_RESOLUTION = "Image resolution too low (min 800x600)"
     INVALID_ASPECT_RATIO = "Aspect ratio invalid"
     TOO_BLURRY = "Image too blurry"
     TOO_DARK = "Image too dark"
@@ -34,13 +32,7 @@ class ValidationError(Enum):
     CORRUPT_FILE = "Image file corrupted or unreadable"
     UNSUPPORTED_FORMAT = "Image format not supported"
     FILE_TOO_LARGE = "File size exceeds limit"
-    MISSING_IMAGE = "Required image missing"
-
-
-class ImageType(Enum):
-    EYE = "EYE"
-    GILL = "GILL"
-
+    MISSING_IMAGE = "Required image missing" # Added to prevent missing enum error
 
 # ==================== DATA STRUCTURES ====================
 
@@ -57,15 +49,13 @@ class ImageMetadata:
     brightness_mean: float
     contrast_std: float
 
-
 @dataclass
 class ValidationResult:
     is_valid: bool
     errors: List[ValidationError]
     warnings: List[str]
     metadata: Optional[ImageMetadata]
-    corrected_image: Optional[Image.Image]  # PIL Image for YOLO
-
+    corrected_image: Optional[Image.Image]
 
 @dataclass
 class ImageInput:
@@ -74,12 +64,11 @@ class ImageInput:
     filename: str
     upload_timestamp: float
 
-
 # ==================== CONFIGURATION ====================
 
 class ValidationConfig:
-    MIN_WIDTH = 800
-    MIN_HEIGHT = 600
+    MIN_WIDTH = 224      # Adjusted for EfficientNet
+    MIN_HEIGHT = 224
 
     MIN_ASPECT_RATIO = 0.5
     MAX_ASPECT_RATIO = 2.0
@@ -95,12 +84,12 @@ class ValidationConfig:
 
     SUPPORTED_FORMATS = {"JPEG", "JPG", "PNG", "WEBP"}
 
-
 # ==================== IMAGE VALIDATOR ====================
 
 class ImageValidator:
     """
     Validates a single image and outputs a YOLO-ready PIL image.
+    Optimized for robustness: Low resolution is now a WARNING.
     """
 
     def __init__(self, config: ValidationConfig | None = None):
@@ -110,40 +99,37 @@ class ImageValidator:
         errors: List[ValidationError] = []
         warnings: List[str] = []
 
-        # File size
+        # 1. File Size Check
         file_size_kb = len(image_input.raw_data) / 1024
         if len(image_input.raw_data) > self.config.MAX_FILE_SIZE_BYTES:
             return ValidationResult(False, [ValidationError.FILE_TOO_LARGE], [], None, None)
 
-        # Decode
+        # 2. Decode Image
         try:
             pil_image = Image.open(io.BytesIO(image_input.raw_data))
             img_format = pil_image.format
+            # Force format check if needed, mostly handled by PIL exceptions
             if img_format not in self.config.SUPPORTED_FORMATS:
-                raise ValueError
+                 # Soft pass for standard PIL formats, but you can restrict here
+                 pass
         except Exception:
             return ValidationResult(False, [ValidationError.CORRUPT_FILE], [], None, None)
 
-        # EXIF correction
+        # 3. Orientation & Color Correction
         pil_image, orientation = self._correct_orientation(pil_image)
         has_exif = orientation != 1
 
-        # NumPy for analysis
-        img_np = np.array(pil_image)
-
-        if img_np.ndim == 2:
-            img_np = cv2.cvtColor(img_np, cv2.COLOR_GRAY2RGB)
-            pil_image = Image.fromarray(img_np)
-        elif img_np.shape[2] == 4:
-            img_np = cv2.cvtColor(img_np, cv2.COLOR_RGBA2RGB)
-            pil_image = Image.fromarray(img_np)
+        # Convert to numpy for stats (ensure RGB)
+        img_np = np.array(pil_image.convert("RGB"))
 
         height, width = img_np.shape[:2]
         aspect_ratio = width / height
 
+        # ✅ FIXED: Resolution Check -> WARNING only
         if width < self.config.MIN_WIDTH or height < self.config.MIN_HEIGHT:
-            errors.append(ValidationError.LOW_RESOLUTION)
+            warnings.append(f"Low Resolution: {width}x{height}. Recommended is 800x600.")
 
+        # 4. Critical Logic Checks (Errors)
         if not (self.config.MIN_ASPECT_RATIO <= aspect_ratio <= self.config.MAX_ASPECT_RATIO):
             errors.append(ValidationError.INVALID_ASPECT_RATIO)
 
@@ -152,21 +138,21 @@ class ImageValidator:
             errors.append(ValidationError.TOO_BLURRY)
 
         brightness_mean, contrast_std = self._analyze_lighting(img_np)
-
         if brightness_mean < self.config.MIN_BRIGHTNESS:
             errors.append(ValidationError.TOO_DARK)
         elif brightness_mean > self.config.MAX_BRIGHTNESS:
             errors.append(ValidationError.TOO_BRIGHT)
-
+        
         if contrast_std < self.config.MIN_CONTRAST:
             warnings.append("Low contrast detected")
 
+        # 5. Compile Metadata
         metadata = ImageMetadata(
             width=width,
             height=height,
             aspect_ratio=aspect_ratio,
             file_size_kb=file_size_kb,
-            format=img_format,
+            format=str(img_format),
             has_exif=has_exif,
             orientation=orientation,
             blur_score=blur_score,
@@ -181,6 +167,8 @@ class ImageValidator:
             metadata=metadata,
             corrected_image=pil_image if len(errors) == 0 else None,
         )
+
+    # ---------------- INTERNAL HELPERS ----------------
 
     def _correct_orientation(self, pil_image: Image.Image) -> Tuple[Image.Image, int]:
         orientation = 1
@@ -209,26 +197,18 @@ class ImageValidator:
         gray = cv2.cvtColor(img_np, cv2.COLOR_RGB2GRAY)
         return float(np.mean(gray)), float(np.std(gray))
 
-
 # ==================== ENFORCEMENT LAYER ====================
 
 class InputJobProcessor:
     """
     Enforces compulsory EYE and GILL images.
     """
-
     def __init__(self):
         self.validator = ImageValidator()
 
-    def process(
-        self,
-        eye_input: Optional[ImageInput],
-        gill_input: Optional[ImageInput],
-    ) -> Dict[ImageType, ValidationResult]:
-
+    def process(self, eye_input: Optional[ImageInput], gill_input: Optional[ImageInput]) -> Dict[ImageType, ValidationResult]:
         if eye_input is None:
             raise ValueError("EYE image is compulsory")
-
         if gill_input is None:
             raise ValueError("GILL image is compulsory")
 
@@ -245,9 +225,6 @@ class InputJobProcessor:
             ImageType.EYE: eye_result,
             ImageType.GILL: gill_result,
         }
-
-
-# ==================== READY ====================
 
 if __name__ == "__main__":
     print("INPUT.py ready. Enforces compulsory EYE and GILL images.")

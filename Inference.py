@@ -1,139 +1,97 @@
 import argparse
-import torch
-from PIL import Image
+import sys
+import os
 
-from yolo_confidence_gate import YOLOConfidenceGate, JobOutcome
+# Custom modules
+from Input import ImageInput, ImageType, InputJobProcessor
 from part_cropper import YOLOPartCropper, CropStatus
+from freshness_classifiers import EyeFreshnessClassifier, GillFreshnessClassifier
+from freshness_fusion import FreshnessFusion
 
-# ✅ CORRECT IMPORTS
-from freshness_classifiers import (
-    EyeFreshnessClassifier,
-    GillFreshnessClassifier,
-    FreshnessClass
-)
+def run_inference(eye_path, gill_path):
+    print("\n=== FISH FRESHNESS INFERENCE PIPELINE ===\n")
 
-from freshness_fusion import FreshnessFusion, DecisionOutcome
-
-
-# ================= CONFIG =================
-
-YOLO_MODEL_PATH = r"D:\Hackathon\Tech Sprint\yolov.pt"
-EYE_CLASSIFIER_PATH = r"D:\Hackathon\Tech Sprint\eye_effnet_best (1).pt"
-GILL_CLASSIFIER_PATH = r"D:\Hackathon\Tech Sprint\gill_model.pt"
-
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-
-
-# ================= PIPELINE =================
-
-def run_inference(eye_img_path, gill_img_path, verbose=False):
-
-    print("\n=== FISH FRESHNESS INFERENCE ===\n")
-
-    # ---------- LOAD IMAGES ----------
+    # ---------------------------------------------------------
+    # STEP A: INPUT VALIDATION
+    # ---------------------------------------------------------
+    print("[1/4] Step A: Validating Input Images...")
     try:
-        eye_img = Image.open(eye_img_path).convert("RGB")
-        gill_img = Image.open(gill_img_path).convert("RGB")
-    except Exception as e:
-        print("FAILED: Could not load input images")
-        print(e)
+        with open(eye_path, "rb") as f: e_data = f.read()
+        with open(gill_path, "rb") as f: g_data = f.read()
+
+        e_in = ImageInput(ImageType.EYE, e_data, eye_path, 0.0)
+        g_in = ImageInput(ImageType.GILL, g_data, gill_path, 0.0)
+
+        processor = InputJobProcessor()
+        results = processor.process(e_in, g_in)
+
+        # Print Warnings (like low resolution) but keep going
+        for itype in [ImageType.EYE, ImageType.GILL]:
+            for w in results[itype].warnings:
+                print(f"⚠️  {itype.value} WARNING: {w}")
+
+        eye_img = results[ImageType.EYE].corrected_image
+        gill_img = results[ImageType.GILL].corrected_image
+
+    except ValueError as e:
+        print(f"❌ STEP A FAILED: {e}")
         return
 
-    # ---------- YOLO CONFIDENCE GATE ----------
-    gate = YOLOConfidenceGate(
-        model_path=YOLO_MODEL_PATH,
-        device=DEVICE
-    )
-
-    if gate.run(eye_img, gill_img) == JobOutcome.FAILED:
-        print("FAILED: Eye/Gill validation failed at YOLO gate")
-        return
-
-    # ---------- PART CROPPING ----------
-    cropper = YOLOPartCropper(
-        model_path=YOLO_MODEL_PATH,
-        device=DEVICE
-    )
-
-    crop_status, eye_crop, gill_crop = cropper.crop_parts(
-        eye_image=eye_img,
-        gill_image=gill_img
-    )
-
-    if crop_status == CropStatus.FAILED:
-        print("FAILED: Could not crop eye or gill")
-        return
-
-    # ---------- LOAD CLASSIFIERS (✅ FIXED) ----------
-    eye_classifier = EyeFreshnessClassifier(
-        model_path=EYE_CLASSIFIER_PATH,
-        device=DEVICE
-    )
-
-    gill_classifier = GillFreshnessClassifier(
-        model_path=GILL_CLASSIFIER_PATH,
-        device=DEVICE
-    )
-
-    # ---------- CLASSIFY ----------
-    eye_result = eye_classifier.classify(eye_crop)
-    gill_result = gill_classifier.classify(gill_crop)
-
-    # ---------- FUSION ----------
-    fusion = FreshnessFusion()
-    fusion_result = fusion.fuse(eye_result, gill_result)
+    # ---------------------------------------------------------
+    # STEP B: DETECTION & DEBUG CROP
+    # ---------------------------------------------------------
+    print("[2/4] Step B: Detecting Regions (YOLO)...")
     
-    # ✅ FIXED: Get business decision from fusion result
-    decision = fusion.make_decision(fusion_result)
+    # Use your ONNX model with a reasonable threshold
+    cropper = YOLOPartCropper(model_path="yolov.onnx", min_conf=0.25)
+    status, eye_crop, gill_crop = cropper.crop_parts(eye_img, gill_img)
 
-    # ---------- OUTPUT ----------
-    print("FINAL RESULT")
-    print("------------")
-    print(f"Freshness Class  : {fusion_result.final_class.name}")
-    print(f"Freshness Grade  : {decision.freshness_grade}")
-    print(f"Confidence       : {fusion_result.confidence * 100:.1f}%")
-    print(f"Acceptable       : {'YES' if decision.is_acceptable else 'NO'}")
-    print(f"Recommendation   : {decision.recommended_action}")
+    # Handle Warning (Fallback) vs Failed
+    if status == CropStatus.WARNING:
+        print("⚠️  STEP B WARNING: Detection low confidence. Using Fallback Center Crops.")
+    elif status == CropStatus.FAILED:
+        print("❌ STEP B FAILED: Could not crop images.")
+        return
 
-    # ---------- VERBOSE ----------
-    if verbose:
-        print("\nDETAILED BREAKDOWN")
-        print("------------------")
-        print(f"Eye Classification:")
-        print(f"  • Class      : {eye_result.predicted_class.name}")
-        print(f"  • Confidence : {eye_result.confidence * 100:.1f}%")
-        print(f"  • Reliable   : {eye_result.is_reliable}")
-        
-        print(f"\nGill Classification:")
-        print(f"  • Class      : {gill_result.predicted_class.name}")
-        print(f"  • Confidence : {gill_result.confidence * 100:.1f}%")
-        print(f"  • Reliable   : {gill_result.is_reliable}")
-        
-        print(f"\nFusion:")
-        print(f"  • Eye weight  : {fusion.eye_weight:.2f}")
-        print(f"  • Gill weight : {fusion.gill_weight:.2f}")
+    # ✅ DEBUG: Save the crops to disk so you can see them!
+    print("      -> Saving debug crops...")
+    try:
+        eye_crop.save("debug_eye_crop.jpg")
+        gill_crop.save("debug_gill_crop.jpg")
+        print("      ✅ Saved 'debug_eye_crop.jpg' & 'debug_gill_crop.jpg'")
+    except Exception as e:
+        print(f"      ⚠️ Could not save debug images: {e}")
 
-        print("\nProbabilities")
-        print("-------------")
-        print("Class          | Eye    | Gill   | Fused")
-        print("---------------|--------|--------|--------")
-        for i, cls in enumerate([FreshnessClass.NOT_FRESH, FreshnessClass.FRESH, FreshnessClass.HIGHLY_FRESH]):
-            print(f"{cls.name:14s} | {eye_result.probabilities[i]:.3f}  | {gill_result.probabilities[i]:.3f}  | {fusion_result.fused_probabilities[i]:.3f}")
+    # ---------------------------------------------------------
+    # STAGE 3: CLASSIFY
+    # ---------------------------------------------------------
+    print("[3/4] Classifying Freshness...")
+    
+    # Load ONNX classifiers
+    eye_clf = EyeFreshnessClassifier("eye_freshness.onnx")
+    gill_clf = GillFreshnessClassifier("gill_freshness.onnx")
 
-    print("\nInference completed.\n")
+    eye_res = eye_clf.classify(eye_crop)
+    gill_res = gill_clf.classify(gill_crop)
 
+    # ---------------------------------------------------------
+    # STAGE 4: FUSION & DECISION
+    # ---------------------------------------------------------
+    print("[4/4] Fusing Results...")
+    fusion = FreshnessFusion()
+    f_res = fusion.fuse(eye_res, gill_res)
+    decision = fusion.make_decision(f_res)
 
-# ================= CLI =================
+    print("\n" + "="*30)
+    print(f"FINAL GRADE    : {decision.freshness_grade}")
+    print(f"CONFIDENCE     : {f_res.confidence * 100:.1f}%")
+    print(f"ACTION         : {decision.recommended_action}")
+    print("="*30 + "\n")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("eye_image")
-    parser.add_argument("gill_image")
-    parser.add_argument("--verbose", action="store_true")
+    parser.add_argument("eye")
+    parser.add_argument("gill")
     args = parser.parse_args()
-
-    run_inference(
-        args.eye_image,
-        args.gill_image,
-        verbose=args.verbose
-    )
+    
+    run_inference(args.eye, args.gill)

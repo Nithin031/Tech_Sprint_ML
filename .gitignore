@@ -1,0 +1,23 @@
+# --- System & Cache ---
+__pycache__/
+*.pyc
+.DS_Store
+
+# --- Large PyTorch Models (Redundant now that we have ONNX) ---
+*.pt
+*.pth
+
+# --- Generated Runtime / Debug Files ---
+debug_*.jpg
+output/
+runs/
+
+# --- Environment & Keys ---
+.env
+venv/
+.vscode/
+.idea/
+
+# --- RAG Vector DB (Usually too large/binary) ---
+faiss.index
+embeddings.npy

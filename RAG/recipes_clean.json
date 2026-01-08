@@ -1,0 +1,10802 @@
+[
+  {
+    "id": "001",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Mustard Hilsa",
+      "local": "Shorshe Ilish"
+    },
+    "fish": {
+      "english": [
+        "Hilsa"
+      ],
+      "local": [
+        "Ilish"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 98,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "002",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Light Fish Stew",
+      "local": "Macher Jhol"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rui"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 95,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "003",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Steamed Barramundi",
+      "local": "Bhetki Paturi"
+    },
+    "fish": {
+      "english": [
+        "Barramundi"
+      ],
+      "local": [
+        "Bhetki"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 92,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "004",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Yogurt Fish",
+      "local": "Doi Maach"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Katla"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "005",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Fish Meatballs",
+      "local": "Chitol Muitha"
+    },
+    "fish": {
+      "english": [
+        "Clown Knife"
+      ],
+      "local": [
+        "Chitol"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "006",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Shredded Bombay Duck",
+      "local": "Lotte Jhuri"
+    },
+    "fish": {
+      "english": [
+        "Bombay Duck"
+      ],
+      "local": [
+        "Lotte"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "007",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Spicy Catfish",
+      "local": "Pabda Jhal"
+    },
+    "fish": {
+      "english": [
+        "Butter Catfish"
+      ],
+      "local": [
+        "Pabda"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 80,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "008",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Oily Perch",
+      "local": "Tel Koi"
+    },
+    "fish": {
+      "english": [
+        "Climbing Perch"
+      ],
+      "local": [
+        "Koi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 75,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "009",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Fish Croquette",
+      "local": "Macher Chop"
+    },
+    "fish": {
+      "english": [
+        "Barramundi"
+      ],
+      "local": [
+        "Bhetki"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 90,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "010",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Pressure Steamed Hilsa",
+      "local": "Ilish Bhapa"
+    },
+    "fish": {
+      "english": [
+        "Hilsa"
+      ],
+      "local": [
+        "Ilish"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "011",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Small Catfish Stew",
+      "local": "Tangra Jhol"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Tangra"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "012",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Mullet in Mustard",
+      "local": "Parshe Jhal"
+    },
+    "fish": {
+      "english": [
+        "Mullet"
+      ],
+      "local": [
+        "Parshe"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "013",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Mango Fish Fry",
+      "local": "Topse Fry"
+    },
+    "fish": {
+      "english": [
+        "Mango Fish"
+      ],
+      "local": [
+        "Topse"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 92,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "014",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Fish Roe Fritters",
+      "local": "Dim Bora"
+    },
+    "fish": {
+      "english": [
+        "Fish Eggs"
+      ],
+      "local": [
+        "Macher Dim"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 95,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "015",
+    "state": "West Bengal",
+    "recipe": {
+      "english": "Crispy Anchovies",
+      "local": "Amudi Fry"
+    },
+    "fish": {
+      "english": [
+        "Anchovies"
+      ],
+      "local": [
+        "Amudi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 84,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "016",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Baked Pearl Spot",
+      "local": "Karimeen Pollichathu"
+    },
+    "fish": {
+      "english": [
+        "Pearl Spot"
+      ],
+      "local": [
+        "Karimeen"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 99,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "017",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Fiery Red Curry",
+      "local": "Meen Mulakittathu"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Neymeen"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 96,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "018",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Coconut Milk Stew",
+      "local": "Fish Moilee"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Avoli"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 93,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "019",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Village Style Curry",
+      "local": "Nadan Meen Curry"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Ayala"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 95,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "020",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Coconut Grated Fish",
+      "local": "Meen Peera"
+    },
+    "fish": {
+      "english": [
+        "Anchovies"
+      ],
+      "local": [
+        "Netholi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "021",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Malabar Fish Biryani",
+      "local": "Meen Biryani"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Neymeen"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 97,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "022",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Spiced Fried Fish",
+      "local": "Meen Varuthathu"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 98,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "023",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Creamy Thick Curry",
+      "local": "Fish Mappas"
+    },
+    "fish": {
+      "english": [
+        "Pearl Spot"
+      ],
+      "local": [
+        "Karimeen"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "024",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Crispy Anchovy Fry",
+      "local": "Netholi Fry"
+    },
+    "fish": {
+      "english": [
+        "Anchovies"
+      ],
+      "local": [
+        "Netholi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 90,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "025",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Mango Fish Curry",
+      "local": "Meen Mangai Curry"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Neymeen"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 92,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "026",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Kottayam Red Curry",
+      "local": "Kottayam Meen Curry"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Neymeen"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 94,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "027",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Fish and Veg Medley",
+      "local": "Meen Avial"
+    },
+    "fish": {
+      "english": [
+        "Shark"
+      ],
+      "local": [
+        "Sura"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 81,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "028",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Shallot Fish Curry",
+      "local": "Ulli Meen Curry"
+    },
+    "fish": {
+      "english": [
+        "Sardines"
+      ],
+      "local": [
+        "Mathi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "029",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Fish Cutlet",
+      "local": "Fish Cutlet"
+    },
+    "fish": {
+      "english": [
+        "Tuna"
+      ],
+      "local": [
+        "Choora"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 92,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "030",
+    "state": "Kerala",
+    "recipe": {
+      "english": "Thalassery Biryani",
+      "local": "Thalassery Biryani"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Ayakoora"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 99,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "031",
+    "state": "Goa",
+    "recipe": {
+      "english": "Goan Coconut Curry",
+      "local": "Xit Kodi"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Manos"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 99,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "032",
+    "state": "Goa",
+    "recipe": {
+      "english": "Red Masala Mackerel",
+      "local": "Recheado Bangdo"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Bangda"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 96,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "033",
+    "state": "Goa",
+    "recipe": {
+      "english": "Sour and Spicy Shark",
+      "local": "Ambot Tik"
+    },
+    "fish": {
+      "english": [
+        "Shark"
+      ],
+      "local": [
+        "Mori"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 94,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "034",
+    "state": "Goa",
+    "recipe": {
+      "english": "Mild Yellow Curry",
+      "local": "Fish Caldine"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Manos"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 89,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "035",
+    "state": "Goa",
+    "recipe": {
+      "english": "Semolina Fish Fry",
+      "local": "Rava Fry"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Visvon"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 97,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "036",
+    "state": "Goa",
+    "recipe": {
+      "english": "Complex Spice Curry",
+      "local": "Fish Xacuti"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Peixe"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 85,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "037",
+    "state": "Goa",
+    "recipe": {
+      "english": "Vinegar Pickle Fish",
+      "local": "Fish Balchao"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Visvon"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 91,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "038",
+    "state": "Goa",
+    "recipe": {
+      "english": "Green Masala Fish",
+      "local": "Fish Cafreal"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Manos"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 87,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "039",
+    "state": "Goa",
+    "recipe": {
+      "english": "Goan Fish Pulao",
+      "local": "Arroz de Peixe"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Visvon"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 90,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "040",
+    "state": "Goa",
+    "recipe": {
+      "english": "Dried Prawn Gravy",
+      "local": "Samarachi Kodi"
+    },
+    "fish": {
+      "english": [
+        "Dried Prawns"
+      ],
+      "local": [
+        "Galmbo"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "041",
+    "state": "Goa",
+    "recipe": {
+      "english": "Fenugreek Mackerel",
+      "local": "Uddamethi"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Bangda"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "042",
+    "state": "Goa",
+    "recipe": {
+      "english": "Dry Spiced Fish",
+      "local": "Goan Sukkem"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Sukhi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "043",
+    "state": "Goa",
+    "recipe": {
+      "english": "Parsi-Goan Cutlet",
+      "local": "Cutlet"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Peixe"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 91,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "044",
+    "state": "Goa",
+    "recipe": {
+      "english": "Starfruit Fish Curry",
+      "local": "Bimbli Curry"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Bangda"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 72,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "045",
+    "state": "Goa",
+    "recipe": {
+      "english": "Dried Fish Salad",
+      "local": "Kishmur"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Sukhi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "046",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Malvani Fish Curry",
+      "local": "Malvani Rassa"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Surmai"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 98,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "047",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Crispy Bombay Duck",
+      "local": "Bombil Fry"
+    },
+    "fish": {
+      "english": [
+        "Bombay Duck"
+      ],
+      "local": [
+        "Bombil"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 99,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "048",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Spicy Mackerel Fry",
+      "local": "Bangda Fry"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Bangda"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 95,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "049",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Street Style Fry",
+      "local": "Fish Koliwada"
+    },
+    "fish": {
+      "english": [
+        "Basa"
+      ],
+      "local": [
+        "Basa"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 97,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "050",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Agri Style Curry",
+      "local": "Agri Rassa"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Paplet"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 89,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "051",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Clam Masala",
+      "local": "Tisriya Masala"
+    },
+    "fish": {
+      "english": [
+        "Clams"
+      ],
+      "local": [
+        "Tisriya"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 86,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "052",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Karwari Fish Stew",
+      "local": "Karwari Saar"
+    },
+    "fish": {
+      "english": [
+        "Indian Salmon"
+      ],
+      "local": [
+        "Rawas"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "053",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Fiery River Fish",
+      "local": "Kolhapuri Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "054",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Crab and Fish Rassa",
+      "local": "Chimbori Rassa"
+    },
+    "fish": {
+      "english": [
+        "Crab"
+      ],
+      "local": [
+        "Chimbori"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 92,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "055",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Dried Prawn Fry",
+      "local": "Sode Fry"
+    },
+    "fish": {
+      "english": [
+        "Dried Prawns"
+      ],
+      "local": [
+        "Sode"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 78,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "056",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Spicy Vidarbha Curry",
+      "local": "Sauji Curry"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rui"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 90,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "057",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Spicy Khandeshi Fish",
+      "local": "Khandeshi Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "058",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Green Stuffed Fish",
+      "local": "Bharlele Maase"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Paplet"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 95,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "059",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Oily Thick Gravy",
+      "local": "Tarri Machli"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Katla"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 90,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "060",
+    "state": "Maharashtra",
+    "recipe": {
+      "english": "Claypot Tribal Fish",
+      "local": "Popti Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 75,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "061",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Chettinad Fish Curry",
+      "local": "Meen Kuzhambu"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 99,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "062",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Madras Style Curry",
+      "local": "Madras Meen Kari"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Vawwal"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 98,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "063",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Spicy Seer Fry",
+      "local": "Meen Varuval"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 99,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "064",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Anchovy Thick Gravy",
+      "local": "Nethili Thokku"
+    },
+    "fish": {
+      "english": [
+        "Anchovies"
+      ],
+      "local": [
+        "Nethili"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 88,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "065",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Shark Scramble",
+      "local": "Sura Puttu"
+    },
+    "fish": {
+      "english": [
+        "Shark"
+      ],
+      "local": [
+        "Sura"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "066",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Mango Fish Stew",
+      "local": "Meen Mangai Kari"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Viral"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 91,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "067",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Black Pepper Fry",
+      "local": "Milagu Varuval"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Vellai Meen"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "068",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Deep South Curry",
+      "local": "Kanyakumari Meen"
+    },
+    "fish": {
+      "english": [
+        "Sardines"
+      ],
+      "local": [
+        "Chala"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 82,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "069",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Short Grain Pulao",
+      "local": "Ambur Pulao"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "070",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Muslim Style Curry",
+      "local": "Nagore Meen Kari"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 87,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "071",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Karaikudi Fry",
+      "local": "Karaikudi Varuval"
+    },
+    "fish": {
+      "english": [
+        "King Fish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 96,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "072",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Small Fish Dry",
+      "local": "Meen Perattal"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Chinna Meen"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 82,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "073",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Coastal Salt Curry",
+      "local": "Cuddalore Meen"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 89,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "074",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Spicy Mackerel Fry",
+      "local": "Ayala Fry"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Ayala"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 91,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "075",
+    "state": "Tamil Nadu",
+    "recipe": {
+      "english": "Lentil Fish Stew",
+      "local": "Parappu Meen"
+    },
+    "fish": {
+      "english": [
+        "Any Fish"
+      ],
+      "local": [
+        "Meen"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 79,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "076",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Nellore Spicy Stew",
+      "local": "Chepala Pulusu"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Korameenu"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 99,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "077",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Rare Godavari Stew",
+      "local": "Pulasa Pulusu"
+    },
+    "fish": {
+      "english": [
+        "Hilsa"
+      ],
+      "local": [
+        "Pulasa"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 100,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "078",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Street Style Fry",
+      "local": "Chepala Vepudu"
+    },
+    "fish": {
+      "english": [
+        "Basa"
+      ],
+      "local": [
+        "Apollo"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 95,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "079",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Sorrel Leaf Fish",
+      "local": "Gongura Chepala"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Chepa"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 92,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "080",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Small Catfish Stew",
+      "local": "Bommidala Pulusu"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Bommidala"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 87,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "081",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Black Pepper Stew",
+      "local": "Korameenu Miriyala"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Korameenu"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "082",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Delta Style Curry",
+      "local": "Godavari Chepala"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 89,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "083",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Spiced Fish Rice",
+      "local": "Chepala Biryani"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 96,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "084",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Inland Spicy Curry",
+      "local": "Rayalaseema Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Chepa"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 91,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "085",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Sweet Water Curry",
+      "local": "Konaseema Fish"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "086",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Coastline Deep Fry",
+      "local": "Vizag Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Chanduva"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 95,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "087",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Sour Mango Curry",
+      "local": "Mamidikaya Chepala"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "088",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Thick Onion Gravy",
+      "local": "Chepala Eguru"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "089",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Tangy Overnight Stew",
+      "local": "Inava Pulusu"
+    },
+    "fish": {
+      "english": [
+        "Any Fish"
+      ],
+      "local": [
+        "Chepa"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 81,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "090",
+    "state": "Andhra Pr.",
+    "recipe": {
+      "english": "Guntur Pepper Roast",
+      "local": "Godavari Roast"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "091",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Mangalore Seer Fry",
+      "local": "Anjal Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Anjal"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 99,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "092",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Tangy Mackerel",
+      "local": "Bangude Pulimunchi"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Bangude"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 96,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "093",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Crunchy Lady Fish",
+      "local": "Kane Rava Fry"
+    },
+    "fish": {
+      "english": [
+        "Lady Fish"
+      ],
+      "local": [
+        "Kane"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 97,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "094",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Bunt Style Curry",
+      "local": "Meen Gassi"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Manji"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 95,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "095",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Village Sardine",
+      "local": "Boothai Meen Curry"
+    },
+    "fish": {
+      "english": [
+        "Sardines"
+      ],
+      "local": [
+        "Boothai"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "096",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Rich Ghee Roast",
+      "local": "Fish Ghee Roast"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Anjal"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 98,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "097",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Coastal Kokum Curry",
+      "local": "Karwari Curry"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Visvon"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "098",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Highland Herb Curry",
+      "local": "Malnad Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Meen"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "099",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Coorg Vinegar Curry",
+      "local": "Coorgi Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Firm Fish"
+      ],
+      "local": [
+        "Meen"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "100",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Clam Rice Dumpling",
+      "local": "Marvai Pundi"
+    },
+    "fish": {
+      "english": [
+        "Clams"
+      ],
+      "local": [
+        "Marvai"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 78,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "101",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Spiced Rice",
+      "local": "Bhatkal Fish Pulao"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Visvon"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "102",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Highland Pepper Fry",
+      "local": "Pepper Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Meen"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "103",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Temple Town Roast",
+      "local": "Udupi Masala"
+    },
+    "fish": {
+      "english": [
+        "Mackerel"
+      ],
+      "local": [
+        "Bangude"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 91,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "104",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "White Rice Biryani",
+      "local": "Coastal Biryani"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Anjal"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 96,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "105",
+    "state": "Karnataka",
+    "recipe": {
+      "english": "Drumstick Fish",
+      "local": "Nuggekai Meen"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "106",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Mustard Paste Fish",
+      "local": "Macha Besara"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rohi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 96,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "107",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Fish Head Medley",
+      "local": "Macha Ghanta"
+    },
+    "fish": {
+      "english": [
+        "Fish Head"
+      ],
+      "local": [
+        "Macha Munda"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 92,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "108",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Crispy River Fry",
+      "local": "Chuna Macha Bhaja"
+    },
+    "fish": {
+      "english": [
+        "Anchovies"
+      ],
+      "local": [
+        "Chuna Macha"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 95,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "109",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Leaf Wrapped Roast",
+      "local": "Macha Patrapoda"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Macha"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 88,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "110",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Yogurt River Fish",
+      "local": "Dahi Macha"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rohi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 85,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "111",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Hilsa Mustard Curry",
+      "local": "Ilishi Tarkari"
+    },
+    "fish": {
+      "english": [
+        "Hilsa"
+      ],
+      "local": [
+        "Ilishi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "112",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Fried Fish Eggs",
+      "local": "Macha Bihana Bhaja"
+    },
+    "fish": {
+      "english": [
+        "Fish Roe"
+      ],
+      "local": [
+        "Macha Anda"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "113",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Spicy River Catfish",
+      "local": "Kantra Macha Jhola"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Kantra"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 78,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "114",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Lake Catch Fry",
+      "local": "Chilika Macha Fry"
+    },
+    "fish": {
+      "english": [
+        "Mullet"
+      ],
+      "local": [
+        "Khainga"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 97,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "115",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Sour Bamboo Curry",
+      "local": "Amila Macha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Macha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 74,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "116",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Temple Veg Medley",
+      "local": "Macha Mahura"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Macha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 86,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "117",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Leafy Greens Fish",
+      "local": "Sajana Saga Macha"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Chuna Macha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 79,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "118",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Small Carp Mustard",
+      "local": "Pohala Macha Rai"
+    },
+    "fish": {
+      "english": [
+        "Small Carp"
+      ],
+      "local": [
+        "Pohala"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 84,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "119",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Charred Dry Curry",
+      "local": "Macha Charchari"
+    },
+    "fish": {
+      "english": [
+        "Tiny Fish"
+      ],
+      "local": [
+        "Chuna Macha"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "120",
+    "state": "Odisha",
+    "recipe": {
+      "english": "Simple Griddle Fry",
+      "local": "Macha Bhaja"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rohi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 96,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "121",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Parsi Green Steamed",
+      "local": "Patra ni Machhi"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Paplet"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 98,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "122",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Parsi White Curry",
+      "local": "Saas ni Machhi"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Paplet"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 89,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "123",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Surti Spiced Fry",
+      "local": "Surti Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Croaker"
+      ],
+      "local": [
+        "Ghol"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 95,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "124",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Coastal Garlic Curry",
+      "local": "Veraval Curry"
+    },
+    "fish": {
+      "english": [
+        "Tuna"
+      ],
+      "local": [
+        "Channi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 87,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "125",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Vinegar Coconut Curry",
+      "local": "Daman Colwanti"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Surmai"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 82,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "126",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Parsi Red Pan Fry",
+      "local": "Tarela Machhi"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "127",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Pickled Fish Eggs",
+      "local": "Gharab nu Achar"
+    },
+    "fish": {
+      "english": [
+        "Fish Roe"
+      ],
+      "local": [
+        "Gharab"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 74,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "128",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Peanut Crust Fry",
+      "local": "Bharuchi Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 83,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "129",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Desert Cumin Roast",
+      "local": "Kutch Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "130",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Parsi Spiced Patty",
+      "local": "Parsi Fish Cutlet"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "131",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Potato Duck Stew",
+      "local": "Boomla Batata"
+    },
+    "fish": {
+      "english": [
+        "Bombay Duck"
+      ],
+      "local": [
+        "Boomla"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "132",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Garlic Sour Curry",
+      "local": "Lotiya Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "133",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Sweet Onion Curry",
+      "local": "Meethi Machhi"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Paplet"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 70,
+    "chef_rating": 3.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "134",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Smoked Fish Rice",
+      "local": "Fish Khichdi"
+    },
+    "fish": {
+      "english": [
+        "Smoked Fish"
+      ],
+      "local": [
+        "Sukhi Machli"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "135",
+    "state": "Gujarat",
+    "recipe": {
+      "english": "Salted Dry Stir Fry",
+      "local": "Kharkharia"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Sukhi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 78,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "136",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Mustard Onion Curry",
+      "local": "Sarson Wali Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 97,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "137",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Thick Spiced Stew",
+      "local": "Bihari Machi Jhor"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 95,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "138",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Tiny River Fry",
+      "local": "Pothia Machi Bhaja"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Pothia"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 92,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "139",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Dry Mix Curry",
+      "local": "Machi Charchari"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 84,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "140",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Fenugreek Carp",
+      "local": "Methi Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 79,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "141",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Claypot Pot Roast",
+      "local": "Champaran Fish"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 94,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "142",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Mashed Spiced Fish",
+      "local": "Machi Chokha"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Pothia"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "143",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Dry Pan Roast",
+      "local": "Machi Bhunja"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "144",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Daily Village Stew",
+      "local": "Rehu Tarkari"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "145",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Yogurt Catfish",
+      "local": "Dahi Machi"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Singhi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "146",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Tamarind Carp",
+      "local": "Imli Wali Machi"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "147",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Potato Carp Stew",
+      "local": "Aloo Machi Jhor"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 85,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "148",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Mustard Seed Gravy",
+      "local": "Besar Wali Machi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "149",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Deep Fried Chunks",
+      "local": "Tikri Machi"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 76,
+    "chef_rating": 3.9,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "150",
+    "state": "Bihar",
+    "recipe": {
+      "english": "Air Breathing Catfish",
+      "local": "Singhi Machi Curry"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Singhi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "151",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Tribal River Stew",
+      "local": "Macha Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "152",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Coal Smoked Carp",
+      "local": "Dhungar Machi"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "153",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Bamboo Tube Fish",
+      "local": "Adivasi Bamboo"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 83,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "154",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Crispy Tilapia",
+      "local": "Tilapia Fry"
+    },
+    "fish": {
+      "english": [
+        "Tilapia"
+      ],
+      "local": [
+        "Tilapia"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 3.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "155",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Sour Catfish",
+      "local": "Imli Machi"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Mangur"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 77,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "156",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Crunchy Small Fry",
+      "local": "Pothia Fry"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Pothia"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "157",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Forest River Stew",
+      "local": "Nadi Machi"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "158",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Thick Patal Stew",
+      "local": "Macha Jhor Thick"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 84,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "159",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Spicy Mud Fish",
+      "local": "Ganda Machi"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Mangur"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 75,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "160",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Minced Tribal Roast",
+      "local": "Machi Puttu"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Pothia"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 72,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "161",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Jackfruit Fish",
+      "local": "Kathal Machi"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 70,
+    "chef_rating": 3.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "162",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Highland River Stew",
+      "local": "Lete Machi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 74,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "163",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Fried Egg Cakes",
+      "local": "Bihana Fry"
+    },
+    "fish": {
+      "english": [
+        "Fish Roe"
+      ],
+      "local": [
+        "Bihana"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 81,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "164",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Roasted Mash",
+      "local": "Machi Chokha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 79,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "165",
+    "state": "Jharkhand",
+    "recipe": {
+      "english": "Salted Dry Fish",
+      "local": "Sode Machi"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Sode"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 78,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "166",
+    "state": "Assam",
+    "recipe": {
+      "english": "Sour Lemon Curry",
+      "local": "Maasor Tenga"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rohu"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 99,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "167",
+    "state": "Assam",
+    "recipe": {
+      "english": "Fermented Bamboo Fish",
+      "local": "Khorisa Maas"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Maas"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 91,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "168",
+    "state": "Assam",
+    "recipe": {
+      "english": "Elephant Apple Fish",
+      "local": "Ou Tenga Maas"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Maas"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 87,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "169",
+    "state": "Assam",
+    "recipe": {
+      "english": "Bamboo Hollow Roast",
+      "local": "Sunga Maas"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Maas"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 94,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "170",
+    "state": "Assam",
+    "recipe": {
+      "english": "Leaf Steamed Fish",
+      "local": "Patot Diya Maas"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Chuna Maas"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 89,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "171",
+    "state": "Assam",
+    "recipe": {
+      "english": "River Catfish Stew",
+      "local": "Borali Maas Jhol"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Borali"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "172",
+    "state": "Assam",
+    "recipe": {
+      "english": "Roasted Rice Flour Fish",
+      "local": "Xandoh Guri Maas"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rohu"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "173",
+    "state": "Assam",
+    "recipe": {
+      "english": "Tiny Crispy Fry",
+      "local": "Puthi Maas Fry"
+    },
+    "fish": {
+      "english": [
+        "Swamp Barb"
+      ],
+      "local": [
+        "Puthi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 90,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "174",
+    "state": "Assam",
+    "recipe": {
+      "english": "Fish Head Lentils",
+      "local": "Maasor Muror Dal"
+    },
+    "fish": {
+      "english": [
+        "Fish Head"
+      ],
+      "local": [
+        "Maasor Muro"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "175",
+    "state": "Assam",
+    "recipe": {
+      "english": "Long Head Catfish",
+      "local": "Aari Maas Jhol"
+    },
+    "fish": {
+      "english": [
+        "Long Catfish"
+      ],
+      "local": [
+        "Aari"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "176",
+    "state": "Assam",
+    "recipe": {
+      "english": "Mashed Spiced Fish",
+      "local": "Chitol Macher Pitika"
+    },
+    "fish": {
+      "english": [
+        "Clown Knife"
+      ],
+      "local": [
+        "Chitol"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "177",
+    "state": "Assam",
+    "recipe": {
+      "english": "Smoked Bamboo Fish",
+      "local": "Bamboo Smoked Maas"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Maas"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 92,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "178",
+    "state": "Assam",
+    "recipe": {
+      "english": "Steamed Clown Fish",
+      "local": "Chitol Bhapa"
+    },
+    "fish": {
+      "english": [
+        "Clown Knife"
+      ],
+      "local": [
+        "Chitol"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 86,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "179",
+    "state": "Assam",
+    "recipe": {
+      "english": "Fish Head Cakes",
+      "local": "Muror Ghila"
+    },
+    "fish": {
+      "english": [
+        "Fish Head"
+      ],
+      "local": [
+        "Maasor Muro"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 87,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "180",
+    "state": "Assam",
+    "recipe": {
+      "english": "Bitter Flower Fish",
+      "local": "Tita Phul Maas"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Maas"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 70,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "181",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Mashed Fermented Fish",
+      "local": "Eromba"
+    },
+    "fish": {
+      "english": [
+        "Fermented Fish"
+      ],
+      "local": [
+        "Ngari"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 98,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "182",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Standard Fish Curry",
+      "local": "Nga Thongba"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "183",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Dried Fish Salad",
+      "local": "Singju"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Nga-Ataoba"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 90,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "184",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Fried Roe Stir Fry",
+      "local": "Nga Agouba"
+    },
+    "fish": {
+      "english": [
+        "Fish Roe"
+      ],
+      "local": [
+        "Nga-Anda"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "185",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Oil Free Stew",
+      "local": "Kangshoi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 85,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "186",
+    "state": "Manipur",
+    "recipe": {
+      "english": "King Chili Mash",
+      "local": "Morok Metpa"
+    },
+    "fish": {
+      "english": [
+        "King Chili Fish"
+      ],
+      "local": [
+        "Ngari"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 92,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "187",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Pungent Fish Sauce",
+      "local": "Ngari Chutney"
+    },
+    "fish": {
+      "english": [
+        "Fermented Fish"
+      ],
+      "local": [
+        "Ngari"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 96,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "188",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Water Chestnut Fish",
+      "local": "Heikak Curry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "189",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Sour Starfruit Fish",
+      "local": "Nga-Hei"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 74,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "190",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Crispy Chunks",
+      "local": "Nga-Ataoba"
+    },
+    "fish": {
+      "english": [
+        "Fried River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 90,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "191",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Grain Fermented Fish",
+      "local": "Hamei Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "192",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Dry Roasted Herbs",
+      "local": "Nga-Muri"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "193",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Royal Mahasheer",
+      "local": "Mahasheer Nga"
+    },
+    "fish": {
+      "english": [
+        "Mahasheer"
+      ],
+      "local": [
+        "Nga-Mahasheer"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 90,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "194",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Soybean Fermented",
+      "local": "Soy Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nga"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "195",
+    "state": "Manipur",
+    "recipe": {
+      "english": "Sun Dried Chunks",
+      "local": "Nga Phan"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Nga-Sukhi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 83,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "196",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Bamboo Shoot Fish",
+      "local": "Nya Bastenga"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 96,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "197",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Wood Smoked Fish",
+      "local": "Nya Dhungar"
+    },
+    "fish": {
+      "english": [
+        "Mahseer"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 93,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "198",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Fermented Bean Fish",
+      "local": "Axone Nya"
+    },
+    "fish": {
+      "english": [
+        "Firm Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 89,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "199",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Yam Leaf Paste Fish",
+      "local": "Anishi Nya"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "200",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "King Chili Fish",
+      "local": "Raja Mircha Nya"
+    },
+    "fish": {
+      "english": [
+        "Firm Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 95,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "201",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Rice and Fish Stew",
+      "local": "Ghalho Nya"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "202",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Spicy Fermented Pika",
+      "local": "Nya Pika"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 83,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "203",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Turmeric Leaf Steam",
+      "local": "Nya Pat"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 86,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "204",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Salted Dry Strips",
+      "local": "Nya Dry"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Nya-Sukhi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 88,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "205",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Open Fire Roast",
+      "local": "Nya Roasted"
+    },
+    "fish": {
+      "english": [
+        "Firm Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 92,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "206",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Jungle Herb Stew",
+      "local": "Nya Jhol"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "207",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Pure Water Boil",
+      "local": "Boiled Nya"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 72,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "208",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Ginger Root Stew",
+      "local": "Nya Ginger"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 76,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "209",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Charred Fish Mash",
+      "local": "Nya Mash"
+    },
+    "fish": {
+      "english": [
+        "Smoked Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 81,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "210",
+    "state": "Nagaland",
+    "recipe": {
+      "english": "Soy Bean Roast",
+      "local": "Axone Roasted"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 83,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "211",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Fermented Fish Sauce",
+      "local": "Tungtap"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Kha-Sukhi"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 97,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "212",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Khasi Fish Salad",
+      "local": "Kha-Dohkhlieh"
+    },
+    "fish": {
+      "english": [
+        "Boiled Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 84,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "213",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Red Rice Fish",
+      "local": "Jadoh-Kha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "214",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Wild Herb Soup",
+      "local": "Kha-Pung"
+    },
+    "fish": {
+      "english": [
+        "Fish Soup"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "215",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Hill Station Fry",
+      "local": "Kha-Bhaja"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Kha-Trout"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 89,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "216",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Alkaline Garo Fish",
+      "local": "Kalchi Kha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 72,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "217",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Dried Fish Soup",
+      "local": "Nakham Bitchi"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Nakham"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 85,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "218",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Creamy Yam Fish",
+      "local": "Kha-Yam"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 79,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "219",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Lemon Leaf Fish",
+      "local": "Kha-Lemon"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 81,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "220",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Fire Charred Fish",
+      "local": "Roasted Kha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "221",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Spicy Garo Stew",
+      "local": "Kha-Spicy"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 86,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "222",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Pine Smoked Fish",
+      "local": "Smoked Kha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "223",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Raw Ginger Fish",
+      "local": "Ginger Kha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "224",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Jaintia Herb Stew",
+      "local": "Kha Jhol"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "225",
+    "state": "Meghalaya",
+    "recipe": {
+      "english": "Standard Khasi Fry",
+      "local": "Kha Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Kha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "226",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Fermented Berma Curry",
+      "local": "Berma Curry"
+    },
+    "fish": {
+      "english": [
+        "Fermented Fish"
+      ],
+      "local": [
+        "Berma"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 90,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "227",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Alkaline Bamboo Fish",
+      "local": "Chakhwi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "228",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Fish Head Medley",
+      "local": "Muri Ghant"
+    },
+    "fish": {
+      "english": [
+        "Fish Head"
+      ],
+      "local": [
+        "Macher Muro"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 89,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "229",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Fiery Fish Mash",
+      "local": "Mosdeng"
+    },
+    "fish": {
+      "english": [
+        "Spicy Mash"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 81,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "230",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Daily River Stew",
+      "local": "Tripuri Machi Jhol"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "231",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Dry Bamboo Stew",
+      "local": "Chakhwi Dry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "232",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Fermented Berma Mash",
+      "local": "Berma Mosdeng"
+    },
+    "fish": {
+      "english": [
+        "Fermented Fish"
+      ],
+      "local": [
+        "Berma"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "233",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Banana Leaf Small",
+      "local": "Machi Pat"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Chuna Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 87,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "234",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Simple Spiced Fry",
+      "local": "Tripuri Machi Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 91,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "235",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Sour Starfruit Stew",
+      "local": "Machi-Hei"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 74,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "236",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Berma Bamboo Roast",
+      "local": "Berma Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 85,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "237",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Sour Berma Stew",
+      "local": "Berma-Hei"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "238",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Dried Chili Mash",
+      "local": "Mosdeng Dried"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Sukhi Machi"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 82,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "239",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Open Flame Roast",
+      "local": "Tripura Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "240",
+    "state": "Tripura",
+    "recipe": {
+      "english": "Delta River Stew",
+      "local": "River Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "241",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Shrimp Spiced Fry",
+      "local": "Misa Mach Poora"
+    },
+    "fish": {
+      "english": [
+        "Shrimp"
+      ],
+      "local": [
+        "Misa Mach"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 87,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "242",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Neutral Vegetable Stew",
+      "local": "Fish Bai"
+    },
+    "fish": {
+      "english": [
+        "Mixed Veg Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "243",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Bamboo shoot Steam",
+      "local": "Rawtu Steamed"
+    },
+    "fish": {
+      "english": [
+        "Bamboo Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 74,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "244",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Deep Fire Roast",
+      "local": "Mizo Mach Poora"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 81,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "245",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Clear Broth Soup",
+      "local": "Mizo Fish Soup"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "246",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Mizo Spiced Roast",
+      "local": "Mach Roasted"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "247",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Wild Herbal Fish",
+      "local": "Mach with Herbs"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "248",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Village Mizo Stew",
+      "local": "Mach Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "249",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Red Chili Mizo",
+      "local": "Mach Chili"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 84,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "250",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Pure Water Boil",
+      "local": "Mach Boiled"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 72,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "251",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Wood Smoke Mizo",
+      "local": "Smoked Mach"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 83,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "252",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "High Heat Mizo",
+      "local": "Spicy Mach"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 86,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "253",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Banana Leaf Mizo",
+      "local": "Leaf Mach"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Chuna Mach"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "254",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Roasted Mizo Mash",
+      "local": "Mach Mash"
+    },
+    "fish": {
+      "english": [
+        "Roasted Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "255",
+    "state": "Mizoram",
+    "recipe": {
+      "english": "Fresh River Catch",
+      "local": "River Mach"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Mach"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "256",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Fermented Fish Paste",
+      "local": "Pehek"
+    },
+    "fish": {
+      "english": [
+        "Fermented Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 80,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "257",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Herbal Steam Fish",
+      "local": "Ngatok"
+    },
+    "fish": {
+      "english": [
+        "Steamed Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 84,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "258",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Bamboo Chili Mix",
+      "local": "Pika Pila"
+    },
+    "fish": {
+      "english": [
+        "Bamboo Chili"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 78,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "259",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Daily Tribal Stew",
+      "local": "Arunachal Machi Jhol"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "260",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Strong Bamboo Roast",
+      "local": "Bamboo Pika"
+    },
+    "fish": {
+      "english": [
+        "Fermented Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 79,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "261",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Herbal Leaf Roast",
+      "local": "Ngatok Herbal"
+    },
+    "fish": {
+      "english": [
+        "Steamed Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 84,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "262",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Strong Pehek Curry",
+      "local": "Fermented Machi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 80,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "263",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Open Pit Roast",
+      "local": "Herbal Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "264",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Highland Pan Fry",
+      "local": "Arunachal Machi Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "265",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Clear River Soup",
+      "local": "Tribal Machi Soup"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "266",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Simple Spiced Stew",
+      "local": "Arunachal Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 74,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "267",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Red Chili tribal",
+      "local": "Chili Machi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 85,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "268",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Bamboo Tube Roast",
+      "local": "Bamboo Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "269",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Smoked Chili Mash",
+      "local": "Arunachal Mash"
+    },
+    "fish": {
+      "english": [
+        "Roasted Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 79,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "270",
+    "state": "Arunachal",
+    "recipe": {
+      "english": "Heavy Pehek Stew",
+      "local": "Smoked Pehek"
+    },
+    "fish": {
+      "english": [
+        "Fermented Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 82,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "271",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Smoked Fish Pickle",
+      "local": "Machha Ko Achar"
+    },
+    "fish": {
+      "english": [
+        "Smoked Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 89,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "272",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Crispy Trout Fry",
+      "local": "Machha Fry"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 92,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "273",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Daily Carp Stew",
+      "local": "Machha Ko Tiwan"
+    },
+    "fish": {
+      "english": [
+        "Local Carp"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "274",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Dried Fish Chutney",
+      "local": "Sidra Ko Achar"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Sidra"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 91,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "275",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Royal Smoked Fish",
+      "local": "Smoked Mahseer"
+    },
+    "fish": {
+      "english": [
+        "Mahseer"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 80,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "276",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Mountain River Stew",
+      "local": "Sikkim Machha Jhol"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "277",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Himalayan Pan Roast",
+      "local": "Sikkim Machha Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "278",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Ginger Spiced Carp",
+      "local": "Ginger Machha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "279",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Red Chili Sikkim",
+      "local": "Chili Machha"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 86,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "280",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Himalayan Herb Soup",
+      "local": "Sikkim Machha Soup"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 74,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "281",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Lemon Butter Trout",
+      "local": "Trout Lemon Butter"
+    },
+    "fish": {
+      "english": [
+        "Rainbow Trout"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 97,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "282",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Mountain Fish Mash",
+      "local": "Sikkim Machha Mash"
+    },
+    "fish": {
+      "english": [
+        "Roasted Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "283",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Fiery Dried Sidra",
+      "local": "Spicy Sidra"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Sidra"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "284",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Himalayan Broth",
+      "local": "Sikkim Machha Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "285",
+    "state": "Sikkim",
+    "recipe": {
+      "english": "Sikkimese Pan Fry",
+      "local": "Sikkim Machha Fried"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machha"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "286",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Amritsari Chickpea Fry",
+      "local": "Amritsari Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Singhara Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 100,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "287",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Daily Onion Stew",
+      "local": "Tariwali Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 96,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "288",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Clay Oven Fish",
+      "local": "Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Surmai"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 98,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "289",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Spiced Fish Rolls",
+      "local": "Machli ke Sholey"
+    },
+    "fish": {
+      "english": [
+        "Basa"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 92,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "290",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Carom Seed Fry",
+      "local": "Ajwaini Fish"
+    },
+    "fish": {
+      "english": [
+        "Singhara Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "291",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Village Style Jhol",
+      "local": "Pind da Jhol"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 87,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "292",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Royal Shahi Curry",
+      "local": "Patiyala Shahi Machli"
+    },
+    "fish": {
+      "english": [
+        "Singhara Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "293",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Griddle Spiced Fish",
+      "local": "Tawa Macchi"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "294",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Ajwain Pan Fry",
+      "local": "Ajwaini Fry"
+    },
+    "fish": {
+      "english": [
+        "Singhara Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 98,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "295",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Heavy Spice Gravy",
+      "local": "Punjabi Machli Masala"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 91,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "296",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Yogurt Punjabi Fish",
+      "local": "Dahi Machli"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "297",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Fenugreek Punjabi",
+      "local": "Methi Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "298",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Gram Flour Fry",
+      "local": "Besan Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "299",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Zesty Lemon Fish",
+      "local": "Lemon Fish"
+    },
+    "fish": {
+      "english": [
+        "Basa"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "300",
+    "state": "Punjab",
+    "recipe": {
+      "english": "Spiced Punjabi Stew",
+      "local": "Punjabi Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "301",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Griddle Singhara",
+      "local": "Tawa Machli"
+    },
+    "fish": {
+      "english": [
+        "Singhara Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "302",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Besan Spiced Fry",
+      "local": "Machi Pakora"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "303",
+    "state": "Haryana",
+    "recipe": {
+      "english": "River Bed Tikka",
+      "local": "Yamuna Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "Singhara Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 89,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "304",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Dry Masala Carp",
+      "local": "Machi Masala"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 84,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "305",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Village Pan Fry",
+      "local": "Haryana Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "306",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Spicy Yamuna Jhol",
+      "local": "Spicy Yamuna Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 85,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "307",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Root Ginger Fish",
+      "local": "Ginger Machi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "308",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Burnt Garlic Fish",
+      "local": "Garlic Machi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "309",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Haryanvi Light Stew",
+      "local": "Haryana Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 81,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "310",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Pan Roasted Singhara",
+      "local": "Tawa Singhara"
+    },
+    "fish": {
+      "english": [
+        "Singhara Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "311",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Crunchy Besan Fry",
+      "local": "Besan Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 92,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "312",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Lemon Tawa Basa",
+      "local": "Lemon Tawa Basa"
+    },
+    "fish": {
+      "english": [
+        "Basa"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 86,
+    "chef_rating": 3.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "313",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Spiced Griddle Tikka",
+      "local": "Haryana Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "314",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Thick Masala Carp",
+      "local": "Dry Masala Machi"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 84,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "315",
+    "state": "Haryana",
+    "recipe": {
+      "english": "Haryanvi Griddle Roast",
+      "local": "Machi Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "316",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Lucknowi Salan",
+      "local": "Awadhi Machli Salan"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 93,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "317",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Holy Town Curry",
+      "local": "Mathura Machli"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "318",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Pickled Spice Fish",
+      "local": "Achari Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "319",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Thick Yogurt Fish",
+      "local": "Dahi Machli"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "320",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Banaras Mustard Curry",
+      "local": "Banarasi Jhal"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "321",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Mughal Era Gravy",
+      "local": "Mughlai Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 91,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "322",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Lucknowi Creamy Korma",
+      "local": "Lucknowi Korma"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 93,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "323",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "UP Onion Stew",
+      "local": "UP Machi Jhor"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "324",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Daily Village Fry",
+      "local": "UP Machi Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 90,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "325",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Tehri Spiced Gravy",
+      "local": "Tehri Fish Masala"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "326",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Eastern UP Jhal",
+      "local": "Banarasi Machi Jhal"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "327",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Awadhi Pan Fry",
+      "local": "Awadhi Machi Fry"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Paplet"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 92,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "328",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "Mathura River Stew",
+      "local": "Mathura Machi Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "329",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "UP Light Jhol",
+      "local": "UP Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "330",
+    "state": "Uttar Pradesh",
+    "recipe": {
+      "english": "UP Masala Carp",
+      "local": "Masala Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "331",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Rajput Hunting Curry",
+      "local": "Rajputani Machli"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Saul"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 95,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "332",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Pink City Curry",
+      "local": "Jaipur Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "333",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Lakeside Curry",
+      "local": "Mewari Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "334",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Royal Spiced Murrel",
+      "local": "Rajwadi Machli"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Saul"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 94,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "335",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Charred Coal Murrel",
+      "local": "Smoked Murrel"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Saul"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 87,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "336",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Desert Spiced Sole",
+      "local": "Marwari Machli"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 92,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "337",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Coal Pit Smoked",
+      "local": "Koyala Machli"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Saul"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 90,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "338",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Jaipur Pan Fry",
+      "local": "Jaipur Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 91,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "339",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Rajasthan Griddle Roast",
+      "local": "Rajasthan Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "340",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Desert Smoked Fish",
+      "local": "Desert Smoked Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "341",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Lakeside Spiced Fry",
+      "local": "Mewari Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "342",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Rajput Hunting Fry",
+      "local": "Rajputani Fry"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Saul"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 90,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "343",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Rajasthan Thick Jhor",
+      "local": "Rajasthan Fish Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "344",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Spicy Mewari Lake",
+      "local": "Spicy Mewari Machli"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "345",
+    "state": "Rajasthan",
+    "recipe": {
+      "english": "Marwari Thick Stew",
+      "local": "Marwari Fish Jhor"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 86,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "346",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Central Malwa Curry",
+      "local": "Malwi Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "347",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Bhopali Garlic Fish",
+      "local": "Bhopali Machli"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 89,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "348",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Malwa Clear Stew",
+      "local": "Malwa Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "349",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Narmada River Fry",
+      "local": "Narmada Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "350",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Indore Street Snack",
+      "local": "Indore Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 95,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "351",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Indore Tawa Roast",
+      "local": "Indore Tawa Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 89,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "352",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Bhopali Spiced Fry",
+      "local": "Bhopali Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 92,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "353",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Narmada River Stew",
+      "local": "Narmada Fish Jhor"
+    },
+    "fish": {
+      "english": [
+        "Carp"
+      ],
+      "local": [
+        "Catla"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 87,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "354",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Malwa Griddle Roast",
+      "local": "Malwa Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 82,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "355",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "MP Thick Stew",
+      "local": "MP Fish Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 84,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "356",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Spicy Malwa Plateau",
+      "local": "Spicy Malwi Machli"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 86,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "357",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "MP Light Broth",
+      "local": "MP Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "358",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "MP Spiced Tikka",
+      "local": "MP Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "359",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Burnt Garlic MP",
+      "local": "Garlic MP Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "360",
+    "state": "Madhya Pradesh",
+    "recipe": {
+      "english": "Indore Masala Tikka",
+      "local": "Indore Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "361",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Tiny Spiced Fry",
+      "local": "Bodas Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Bodas"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 94,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "362",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Tribal Leaf Roast",
+      "local": "Bastar Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 90,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "363",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Daily Sour Stew",
+      "local": "Amtari Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "364",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Dried Fish Mash",
+      "local": "Bodas Chatney"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Bodas"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "365",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Bastariya Pouch Fish",
+      "local": "Bastariya Puda Fish"
+    },
+    "fish": {
+      "english": [
+        "Tilapia"
+      ],
+      "local": [
+        "Tilapia"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "366",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Spiced Roasted Mash",
+      "local": "Chutney Machli"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Bodas"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "367",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Bastar Spiced Fry",
+      "local": "Bastar Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 92,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "368",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Amtari Spiced Stew",
+      "local": "Amtari Fish Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "369",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Tribal Leaf Pouch",
+      "local": "Puda Machli Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 86,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "370",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Bastar Light Stew",
+      "local": "Bastar Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "371",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Spicy Bastar Jungle",
+      "local": "Spicy Bastariya Machli"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 85,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "372",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Bodas Spiced Roast",
+      "local": "Bodas Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "Small Fish"
+      ],
+      "local": [
+        "Bodas"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "373",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Chhattisgarh Pan Fry",
+      "local": "Chhattisgarh Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "374",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Tribal Spiced Mash",
+      "local": "Tribal Machli Mash"
+    },
+    "fish": {
+      "english": [
+        "Roasted Fish"
+      ],
+      "local": [
+        "Nadi Machli"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "375",
+    "state": "Chhattisgarh",
+    "recipe": {
+      "english": "Highland River Catch",
+      "local": "Nadi Machli Curry"
+    },
+    "fish": {
+      "english": [
+        "Rohu"
+      ],
+      "local": [
+        "Rehu"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "376",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Sour Murrel Stew",
+      "local": "Chepala Pulusu"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Korameenu"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 97,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "377",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Gachibowli Street Fry",
+      "local": "Gachibowli Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Basa"
+      ],
+      "local": [
+        "Apollo"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 92,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "378",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Nizam Style Curry",
+      "local": "Hyderabad Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Korameenu"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 92,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "379",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Spicy River Catfish",
+      "local": "Warangal River Fish"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Mangur"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 85,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "380",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Spiced Roe Scramble",
+      "local": "Fish Egg Bhurji"
+    },
+    "fish": {
+      "english": [
+        "Fish Roe"
+      ],
+      "local": [
+        "Chepala Giddu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 89,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "381",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Karimnagar Spicy Stew",
+      "local": "Karimnagar Pulusu"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Korameenu"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 89,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "382",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Telangana Pan Fry",
+      "local": "Telangana Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Chepa"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 91,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "383",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Warangal Chili Curry",
+      "local": "Spicy Warangal Fish"
+    },
+    "fish": {
+      "english": [
+        "Catfish"
+      ],
+      "local": [
+        "Mangur"
+      ]
+    },
+    "spicy_level": "5",
+    "popularity_score": 84,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "5"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "384",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Hyderabad Pepper Fry",
+      "local": "Hyderabad Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Korameenu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "385",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Fish Roe Masala",
+      "local": "Fish Egg Masala"
+    },
+    "fish": {
+      "english": [
+        "Fish Roe"
+      ],
+      "local": [
+        "Chepala Giddu"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "386",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Telangana Light Stew",
+      "local": "Telangana Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Chepa"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "387",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Telangana Masala Tikka",
+      "local": "Telangana Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Vellai Meen"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "388",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Karimnagar Pepper Roast",
+      "local": "Karimnagar Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Korameenu"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 90,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "389",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Hyderabad Thick Stew",
+      "local": "Hyderabad Fish Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Chepa"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "390",
+    "state": "Telangana",
+    "recipe": {
+      "english": "Telangana Griddle Roast",
+      "local": "Telangana Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Nadi Chepa"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 86,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "391",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Kashmiri Street Fish",
+      "local": "Gaad Monji"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Sole"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 96,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "392",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Radish Fish Stew",
+      "local": "Mujh Gaad"
+    },
+    "fish": {
+      "english": [
+        "Radish and Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 92,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "393",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Lotus Stem Fish",
+      "local": "Nadir Gaad"
+    },
+    "fish": {
+      "english": [
+        "Lotus and Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 90,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "394",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Greens and Fish",
+      "local": "Haak Gaad"
+    },
+    "fish": {
+      "english": [
+        "Greens and Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 94,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "395",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Turnip and Fish",
+      "local": "Gogji Gaad"
+    },
+    "fish": {
+      "english": [
+        "Turnip and Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "396",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Valley Brown Stew",
+      "local": "Koshur Gaad Stew"
+    },
+    "fish": {
+      "english": [
+        "Trout"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 90,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "397",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Kashmiri Radish Stew",
+      "local": "Kashmiri Mujh Gaad"
+    },
+    "fish": {
+      "english": [
+        "Radish and Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 91,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "398",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "J&K Spiced Fry",
+      "local": "J&K Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Sole"
+      ],
+      "local": [
+        "Sole"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 93,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "399",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Valley Pan Roast",
+      "local": "J&K Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "Trout"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 90,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "400",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Spicy Valley Curry",
+      "local": "Spicy J&K Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "401",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Ginger Valley Stew",
+      "local": "Ginger J&K Fish"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "402",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Clear Valley Soup",
+      "local": "J&K Fish Soup"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 74,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "403",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Kashmiri Spiced Tikka",
+      "local": "Kashmiri Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "404",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "Zesty Lemon Gaad",
+      "local": "Lemon J&K Gaad"
+    },
+    "fish": {
+      "english": [
+        "Trout"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 92,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "405",
+    "state": "Jammu & Kashmir",
+    "recipe": {
+      "english": "J&K Light Broth",
+      "local": "J&K Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Gaad"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "406",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Kullu Valley Trout",
+      "local": "Kullu Trout Fry"
+    },
+    "fish": {
+      "english": [
+        "Rainbow Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 99,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "407",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Chamba River Fish",
+      "local": "Chamba Machli"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 84,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "408",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Lemon Himalayan Trout",
+      "local": "Trout Lemon Fry"
+    },
+    "fish": {
+      "english": [
+        "Rainbow Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 97,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "409",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Mountain River Roast",
+      "local": "River Mahseer Roast"
+    },
+    "fish": {
+      "english": [
+        "Mahseer"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 85,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "410",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Himachal Pan Fry",
+      "local": "Himachal Machi Fry"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 92,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "411",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Spicy Chamba Valley",
+      "local": "Spicy Chamba Machli"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 82,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "412",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Himachal River Broth",
+      "local": "Himachal Machi Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "413",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Himachal Spiced Tikka",
+      "local": "Himachal Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "414",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Himalayan Mahseer Roast",
+      "local": "Himachal Mahseer Roast"
+    },
+    "fish": {
+      "english": [
+        "Mahseer"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 86,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "415",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Mountain Fish Mash",
+      "local": "Himachal Machi Mash"
+    },
+    "fish": {
+      "english": [
+        "Roasted Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "416",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Himalayan Lemon Trout",
+      "local": "Lemon Trout Fry"
+    },
+    "fish": {
+      "english": [
+        "Rainbow Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 94,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "417",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Himachal Thick Stew",
+      "local": "Himachal Machi Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "418",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Garlic Himalayan Fish",
+      "local": "Garlic Himachal Machi"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "419",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Himachal Village Fry",
+      "local": "Himachal Machi Fried"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 88,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "420",
+    "state": "Himachal",
+    "recipe": {
+      "english": "Tribal Mountain Trout",
+      "local": "Tribal Trout Fry"
+    },
+    "fish": {
+      "english": [
+        "Mountain Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 90,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "421",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Himalayan Pahari Fish",
+      "local": "Pahari Machli Curry"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "422",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Garhwal Spiced Stew",
+      "local": "Gadhwali Fish Jhol"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Saul"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "423",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Kumaon Hill Curry",
+      "local": "Kumaoni Machli Curry"
+    },
+    "fish": {
+      "english": [
+        "Murrel"
+      ],
+      "local": [
+        "Saul"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 83,
+    "chef_rating": 4.4,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "424",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Pahari Mustard Yogurt",
+      "local": "Pahari Raita Fish"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 78,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "425",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Highland Pan Fry",
+      "local": "Uttarakhand Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "426",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Uttarakhand River Broth",
+      "local": "Uttarakhand Fish Stew"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 76,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "427",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Spicy Pahari Hill",
+      "local": "Spicy Pahari Machli"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 84,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "428",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Uttarakhand Griddle Roast",
+      "local": "Uttarakhand Fish Roast"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 86,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "429",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Pahari Smoked Mash",
+      "local": "Pahari Machli Mash"
+    },
+    "fish": {
+      "english": [
+        "Roasted Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "430",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Uttarakhand Thick Jhor",
+      "local": "Uttarakhand Fish Jhor"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 81,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "431",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Garlic Pahari Hill",
+      "local": "Garlic Pahari Machli"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 82,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "432",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Zesty Pahari Hill",
+      "local": "Lemon Pahari Machli"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 86,
+    "chef_rating": 4.1,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "433",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Uttarakhand Masala Tikka",
+      "local": "Uttarakhand Fish Tikka"
+    },
+    "fish": {
+      "english": [
+        "White Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 88,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "434",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Mustard Pahari Hill",
+      "local": "Pahari Rai Machli"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 85,
+    "chef_rating": 4.3,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "435",
+    "state": "Uttarakhand",
+    "recipe": {
+      "english": "Uttarakhand Village Fry",
+      "local": "Uttarakhand Fish Fried"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 84,
+    "chef_rating": 4.0,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "436",
+    "state": "Lakshadweep",
+    "recipe": {
+      "english": "Tuna Boneless Roast",
+      "local": "Mus Kavaab"
+    },
+    "fish": {
+      "english": [
+        "Tuna"
+      ],
+      "local": [
+        "Mus"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 97,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "437",
+    "state": "Lakshadweep",
+    "recipe": {
+      "english": "Fresh Tuna Masala",
+      "local": "Tuna Masala Fry"
+    },
+    "fish": {
+      "english": [
+        "Tuna"
+      ],
+      "local": [
+        "Choora"
+      ]
+    },
+    "spicy_level": "4",
+    "popularity_score": 98,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "4"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "438",
+    "state": "Puducherry",
+    "recipe": {
+      "english": "French Snapper Stew",
+      "local": "Meen Puyabaisse"
+    },
+    "fish": {
+      "english": [
+        "Red Snapper"
+      ],
+      "local": [
+        "Meen"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 5.0,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "439",
+    "state": "Puducherry",
+    "recipe": {
+      "english": "Spicy Creole Curry",
+      "local": "Creole Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 90,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "440",
+    "state": "Puducherry",
+    "recipe": {
+      "english": "Spiced Kingfish",
+      "local": "Vadouvan Meen"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 86,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "441",
+    "state": "Lakshadweep",
+    "recipe": {
+      "english": "Pink Perch Curry",
+      "local": "Kilimar Curry"
+    },
+    "fish": {
+      "english": [
+        "Pink Perch"
+      ],
+      "local": [
+        "Kilimeen"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 84,
+    "chef_rating": 4.5,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "442",
+    "state": "Andaman",
+    "recipe": {
+      "english": "Grilled Coconut Barramundi",
+      "local": "Coconut Grilled Barramundi"
+    },
+    "fish": {
+      "english": [
+        "Barramundi"
+      ],
+      "local": [
+        "Meen"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 93,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "443",
+    "state": "Andaman",
+    "recipe": {
+      "english": "Spicy Nicobar Curry",
+      "local": "Nicobari Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Kingfish"
+      ],
+      "local": [
+        "Vanjaram"
+      ]
+    },
+    "spicy_level": "2",
+    "popularity_score": 85,
+    "chef_rating": 4.7,
+    "tags": [
+      "fully_cooked",
+      "2"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "444",
+    "state": "Andaman",
+    "recipe": {
+      "english": "Tandoori Red Snapper",
+      "local": "Tandoori Snapper"
+    },
+    "fish": {
+      "english": [
+        "Red Snapper"
+      ],
+      "local": [
+        "Meen"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 94,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "445",
+    "state": "Andaman",
+    "recipe": {
+      "english": "Spicy Island Squid",
+      "local": "Squid Fry"
+    },
+    "fish": {
+      "english": [
+        "Squid"
+      ],
+      "local": [
+        "Meen"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 91,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "446",
+    "state": "Ladakh",
+    "recipe": {
+      "english": "Dried Mountain Soup",
+      "local": "Nya-Thukpa"
+    },
+    "fish": {
+      "english": [
+        "Dried Fish"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 82,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "447",
+    "state": "Ladakh",
+    "recipe": {
+      "english": "Butter River Trout",
+      "local": "Ladakhi Butter Fish"
+    },
+    "fish": {
+      "english": [
+        "River Trout"
+      ],
+      "local": [
+        "Nya"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 88,
+    "chef_rating": 4.9,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "448",
+    "state": "Delhi",
+    "recipe": {
+      "english": "Capital Spiced Fry",
+      "local": "Daryaganj Fish Fry"
+    },
+    "fish": {
+      "english": [
+        "Seer Fish"
+      ],
+      "local": [
+        "Surmai"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 97,
+    "chef_rating": 4.6,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "449",
+    "state": "Delhi",
+    "recipe": {
+      "english": "Royal Mughlai Fish",
+      "local": "Mughlai Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "Pomfret"
+      ],
+      "local": [
+        "Paplet"
+      ]
+    },
+    "spicy_level": "1",
+    "popularity_score": 89,
+    "chef_rating": 4.8,
+    "tags": [
+      "fully_cooked",
+      "1"
+    ],
+    "cuisine_region": "India"
+  },
+  {
+    "id": "450",
+    "state": "D&N Haveli",
+    "recipe": {
+      "english": "Coastal River Stew",
+      "local": "Silvassa Fish Curry"
+    },
+    "fish": {
+      "english": [
+        "River Fish"
+      ],
+      "local": [
+        "Machi"
+      ]
+    },
+    "spicy_level": "3",
+    "popularity_score": 80,
+    "chef_rating": 4.2,
+    "tags": [
+      "fully_cooked",
+      "3"
+    ],
+    "cuisine_region": "India"
+  }
+]
